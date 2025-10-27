@@ -36,12 +36,12 @@ My approach to every visualization is guided by the essential rules and pro tips
 
 These projects demonstrate the application of these best practices to solve real-world analytical problems.
 
-### **1. Executive Dashboard: [Project Title 1 Here]**
+### **1. 🎧 Music Industry Revenue Project: Composition Analysis**
 
-* **Focus:** High-level performance tracking for C-suite and Managers.
-* **Key Visuals:** Primarily **KPI Cards** and **Line Charts** for trend analysis.
-* **Storytelling Highlight:** Achieved 96% data comprehension by focusing on a maximum of 5 essential metrics per view, leveraging strong descriptive titles.
-* **Repository Link:** [Link to Project 1 Folder or Live Demo]
+* **Focus:** Historical composition of **US Music Revenue** (1973–2019), demonstrating the critical transition from Physical to Digital formats.
+* **Key Visuals:** A highly formatted **Stacked Area Chart** optimized for showing part-to-whole relationships over time.
+* **Storytelling Highlight:** Achieved high data clarity by implementing best practices, including custom axis formatting (converting Millions to Billions), removing chart noise (gridlines, borders), and fixing the data stacking order to show a clear Digital baseline.
+* **Repository Link:** [https://github.com/yourexodus/mfrancis\_MicrosoftExcel\_Analysis/blob/main/Music\_Industry/readme.md](https://github.com/yourexodus/mfrancis_MicrosoftExcel_Analysis/blob/main/Music_Industry/readme.md)
 
 ### **2. Deep Dive Analysis: [Project Title 2 Here]**
 
